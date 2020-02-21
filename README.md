@@ -42,8 +42,8 @@ LISTO. El simulador debe decir **Hola Mundo**
  # Contenido de ejemplos
 - Ejemplo1 : envía información hacia el robot "Hola mundo"
 - Ejemplo2 : recibe información del robot
-- Ejemplo3 : recibe información de otro computador y la envía al robot (Proximamente)
-- Ejemplo4 : envía información hacia el robot desde otro pc (Proximamente)
+- Ejemplo3 : recibe información de otro computador y la envía al robot
+- Ejemplo4 : envía información hacia el robot desde otro pc
 - Ejemplo5 : presentación de LRS1
 - Ejemplo6 : Voces del robot
 - Ejemplo7 : Juego de operaciones matemáticas
@@ -52,8 +52,7 @@ LISTO. El simulador debe decir **Hola Mundo**
 
 1) Teleoperar el robot desde el mismo computador
 2) Recibir información del robot desde otro computador
-3) Estbalecer estructura de un proyecto
-5) Cerrar la comuniciación del socket con desconectarRobot()
-6) Realizar multiples pruebas 
+3) Cerrar la comuniciación del socket con desconectarRobot()
+4) Realizar multiples pruebas 
 
 
