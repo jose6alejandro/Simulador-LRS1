@@ -1,7 +1,7 @@
 # LRS1
 **Simulador LaSDAI Robot Social 1 (LRS1) - un robot social de bajo costo**
 
-MVP del simulador [LRS1](https://youtu.be/GA42PbvoQ88), construido en la ***terminal Xfce*** de Linux  tiene como finalidad motivar el aprendizaje de la asignatura programación 1 mediante la programación del simulador. 
+MVP del simulador LRS1 construido en la ***terminal Xfce*** de Linux  tiene como finalidad motivar el aprendizaje de la asignatura programación 1 mediante la programación del simulador. 
 
 > Ver articulo relacionado [(Perez, J y Castro, J, 2018)](https://www.researchgate.net/publication/329116387_LRS1_UN_ROBOT_SOCIAL_DE_BAJO_COSTO_PARA_LA_ASIGNATURA_PROGRAMACION_1).
 
@@ -50,9 +50,13 @@ LISTO. El simulador debe decir **Hola Mundo**
 
 ## Tareas por realizar
 
+<<<<<<< HEAD
 1) Teleoperar el robot desde el mismo computador
 2) Recibir información del robot desde otro computador
 3) Cerrar la comuniciación del socket con desconectarRobot()
 4) Realizar multiples pruebas 
+=======
+- Teleoperar el robot desde el mismo computador
+>>>>>>> 8b8f9b345d377983e4de81498cfc45feab4095f3
 
 
