@@ -50,13 +50,5 @@ LISTO. El simulador debe decir **Hola Mundo**
 
 ## Tareas por realizar
 
-<<<<<<< HEAD
 1) Teleoperar el robot desde el mismo computador
-2) Recibir información del robot desde otro computador
-3) Cerrar la comuniciación del socket con desconectarRobot()
-4) Realizar multiples pruebas 
-=======
-- Teleoperar el robot desde el mismo computador
->>>>>>> 8b8f9b345d377983e4de81498cfc45feab4095f3
-
-
+2) Realizar multiples pruebas 
